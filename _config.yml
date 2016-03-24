@@ -1,0 +1,28 @@
+name: radiantonraw
+favicon: null
+layout_spectrum: 0.986418679356575
+typography_spectrum: 0.893285610480234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11029999353922904
+  lightness: 0.7839799250941724
+  saturation: 0.9384905456099659
+  rhythmicContrast: 0.9481017547659576
+purpose: []
