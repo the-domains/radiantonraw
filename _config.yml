@@ -30,6 +30,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About Gabriela
+    url: 'http://www.radiantonraw.co.uk'
+    type: external
 favicon: null
 title: Healthy Living Tips with Gabriela Lerner
 purpose: []
