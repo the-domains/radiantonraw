@@ -1,20 +1,4 @@
-name: radiantonraw
-favicon: null
-layout_spectrum: 0.986418679356575
 typography_spectrum: 0.893285610480234
-title: Healthy Living Tips with Gabriela Lerner
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,26 @@ color:
   lightness: 0.7839799250941724
   saturation: 0.9384905456099659
   rhythmicContrast: 0.9481017547659576
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.986418679356575
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Gabriela Lerner
+  email: gabriela@radiantonraw.co.uk
+  url: radiantonraw.co.uk
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/861a41c1-d9ee-4e50-99ea-57b71ebd150e.jpg
+name: radiantonraw
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Healthy Living Tips with Gabriela Lerner
 purpose: []
